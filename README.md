@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **React js**
 
-- 👨‍💻 All of my projects are available at [https://portfolio-i-m-sonus-projects.vercel.app/](https://portfolio-i-m-sonus-projects.vercel.app/)
+
 
 - 💬 Ask me about **React, mongodb, flutter**
 
